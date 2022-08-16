@@ -1,6 +1,10 @@
 ## Pagamento Realizado com Sucesso
 
-You can use the [editor on GitHub](https://github.com/upasrs/idPagamento/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Número de Identificação (ID): 
+
+Anote seu número de identificação. Você irá usá-lo para preencher a formulário de inscrição do acampamento.
+
+dou can use the [editor on GitHub](https://github.com/upasrs/idPagamento/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
