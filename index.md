@@ -4,5 +4,4 @@
 
 Anote este número de identificação. Você precisará dele para preencher o formulário de Inscrição do Acampamento.
 
-Formulário de Inscrição do Acampamento:
-<a href='https://bit.ly/3JVsGWA' src='https://bit.ly/3JVsGWA'>
+Formulário de Inscrição do Acampamento: <a href="https://bit.ly/3JVsGWA" target="_blank">https://bit.ly/3JVsGWA</a>
